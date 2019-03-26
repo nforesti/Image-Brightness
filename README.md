@@ -21,6 +21,7 @@ Processing
 Change the image path for the image you want to run through the program. 
 Change the hex / rgb values. 
 Double check to make sure the width / height of the program and the image match.
+Change the number of thresholds by adding / subtracting else if statements.
 ```
 
 ## Authors
